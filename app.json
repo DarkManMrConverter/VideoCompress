@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/linux_repo",
   "website": "https://t.me/Discovery_Updates",
-  "repository": "https://github.com/AbirHasan2005/VideoCompress",
+  "repository": "https://github.com/DarkManMrConverter/VideoCompress/tree/HEVC-my",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -44,7 +44,7 @@
     },
     "AUTH_USERS": {
       "description": "Allow only pre-defined users to use this bot as Sudo User. Separate with Space. Just for using Admin Commands.",
-      "value": "715779594",
+      "value": "5186216659",
       "required": false
     },
     "FINISHED_PROGRESS_STR": {
